@@ -83,3 +83,11 @@ fiveYearsProperty: if the owner have the property for less than 5 years.
 # 3. Generic Flow Of Project
 
 https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/18.png
+
+# 4. Choosing Best ML Model
+
+List of the model that we can use for our problem
+a. LinearRegression model
+b. KNN Model
+c. Decesion Tree
+d. Random Forest
