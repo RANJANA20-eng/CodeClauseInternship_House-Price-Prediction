@@ -14,21 +14,12 @@ House Price Prediction is an analytical model based on the House-Price dataset. 
     C. Introduction About Project
 
     D. Tools and Libraries
- 3. Data Collection
- 4. Generic Flow Of Project
- 5. EDA
-    
-    A. Data Cleaning
-    
-    B. Feature Engineering
-    
-    C. Data Normalization
-  6. Choosing Best ML Model
- 7. Model Creation
- 8. Model Deployment
- 9. Model Conclusion
- 10. Limitation And Next Step
- 11. Working Project Video
+ 2. Data Collection
+ 3. Generic Flow Of Project
+ 4. Choosing Best ML Model
+ 5. Model Conclusion
+ 6. Project Innovation
+ 7. Working Project Video
 
 # 1. Project Description
 
