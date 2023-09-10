@@ -8,9 +8,12 @@ House Price Prediction is an analytical model based on the House-Price dataset. 
  1. Project Description
 
     A. Problem Statement
+
     B. Best Possible Solutions
 
-                                                                                                                                                           C. Introduction About Project                                                                                                                                                     D. Tools and Libraries
+    C. Introduction About Project
+
+    D. Tools and Libraries
  3. Data Collection
  4. Generic Flow Of Project
  5. EDA
