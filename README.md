@@ -17,11 +17,13 @@ House Price Prediction is an analytical model based on the House-Price dataset. 
  3. Data Collection
  4. Generic Flow Of Project
  5. EDA
+    
     A. Data Cleaning
     
     B. Feature Engineering
     
     C. Data Normalization
+  6. Choosing Best ML Model
  7. Model Creation
  8. Model Deployment
  9. Model Conclusion
@@ -34,9 +36,9 @@ House Price Prediction is an analytical model based on the House-Price dataset. 
 Thousands of houses are sold everyday. There are some questions every buyer asks himself like: What is the actual price that this house deserves?
 
 # B. Best Possible Solutions
-a.Housing Expert
-b.Intuition About House
-c.Using Machine Learning
+a. Housing Expert
+b. Intuition About House
+c. Using Machine Learning
 
 # C. Introduction About Project
 House Price prediction are very stressful work as we have to consider different things while buying a house like the structure and the rooms kitchen parking space and gardens. People don’t know about the factor which influence the house price. But by using the Machine learning we can easily find the house which is to be prefect for us and helps to predict the price accurately.
@@ -45,9 +47,9 @@ House Price prediction are very stressful work as we have to consider different 
 
 Tools
 
-a.Python
+a. Python
 
-b.Jupyter Notebook
+b. Jupyter Notebook
 
 c. HTML
 
@@ -55,15 +57,15 @@ d. GitHub
 
 Libraries
 
-a.Pandas
+a. Pandas
 
-b.Scikit Learn
+b. Scikit Learn
 
-c.Numpy
+c. Numpy
 
-d.Seaborn
+d. Seaborn
 
-e.Matpoltlib
+e. Matpoltlib
 
 # 2. Data Collection
 
