@@ -96,6 +96,7 @@ https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_REA
 # 4. Choosing Best ML Model
 
 List of the model 
+
 a. LinearRegression model
 
 b. KNN Model
