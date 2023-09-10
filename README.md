@@ -37,7 +37,9 @@ Thousands of houses are sold everyday. There are some questions every buyer asks
 
 # B. Best Possible Solutions
 a. Housing Expert
+
 b. Intuition About House
+
 c. Using Machine Learning
 
 # C. Introduction About Project
@@ -102,8 +104,21 @@ https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_REA
 
 # 4. Choosing Best ML Model
 
-List of the model that we can use for our problem
+List of the model 
 a. LinearRegression model
+
 b. KNN Model
+
 c. Decesion Tree
+
 d. Random Forest
+# 5. Model Conclusion
+
+Model predict 90% accurately on test data and 94% accurately on train data .
+# 6. Project Innovation
+
+a. Easy to use
+
+b. open source
+
+c. Best accuracy
