@@ -7,24 +7,18 @@ House Price Prediction is an analytical model based on the House-Price dataset. 
 
  1. Project Description
 
-    A. Problem Statement                                                                                                                                                              B. Best Possible Solutions
-
-    C. Introduction About Project
-
-    D. Tools and Libraries
- 3. Data Collection
- 4. Generic Flow Of Project
- 5. EDA
+    A. Problem Statement                                                                                                                                                              B. Best Possible Solutions                                                                                                                                                        C. Introduction About Project                                                                                                                                                     D. Tools and Libraries
+ 2. Data Collection
+ 3. Generic Flow Of Project
+ 4. EDA
     A. Data Cleaning
     B. Feature Engineering
     C. Data Normalization
- 6. Choosing Best ML Model
- 7. Model Creation
+ 5. Model Creation
  8. Model Deployment
  9. Model Conclusion
-    Project Innovation
-    Limitation And Next Step
-    Working Project Video
+ 10. Limitation And Next Step
+ 11. Working Project Video
 
 # 1. Project Description
 
@@ -58,7 +52,8 @@ e.Matpoltlib
 
 # 2. Data Collection
 
-For this project we used the data that is available on kaggle.[(https://www.kaggle.com/datasets/ruiqurm/lianjia)](https://www.kaggle.com/datasets/ruiqurm/lianjia).There are 26 columns and 318851 Rows. These are the major point about the data set.
+For this project we used the data that is available on kaggle.[(https://www.kaggle.com/datasets/ruiqurm/lianjia)](https://www.kaggle.com/datasets/ruiqurm/lianjia).
+There are 26 columns and 318851 Rows. These are the major point about the data set.
 url: the url which fetches the data
 id: the id of transaction
 Lng: and Lat coordinates, using the BD09 protocol.
