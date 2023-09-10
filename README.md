@@ -59,7 +59,9 @@ e.Matpoltlib
 # 2. Data Collection
 
 For this project we used the data that is available on kaggle.[(https://www.kaggle.com/datasets/ruiqurm/lianjia)](https://www.kaggle.com/datasets/ruiqurm/lianjia).
+
 There are 26 columns and 318851 Rows. These are the major point about the data set.
+
 url: the url which fetches the data
 id: the id of transaction
 Lng: and Lat coordinates, using the BD09 protocol.
